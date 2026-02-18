@@ -6,7 +6,7 @@ This project implements a regime-sensitive framework for forecasting the EUR 10-
 
 The EUR 10Y swap spread is defined as:
 
-> 10Y EUR Interest Rate Swap – 10Y German Bund Yield
+10Y EUR Interest Rate Swap – 10Y German Bund Yield
 
 The spread reflects credit risk, liquidity conditions, and macro-financial stress.  
 Its dynamics are highly non-stationary and exhibit structural regime changes, making them difficult to model with traditional linear time-series approaches.
@@ -77,3 +77,4 @@ python src/run_demo.py
 This repository is derived from a Master's thesis in Quantitative Finance focused on regime-aware modeling of EUR swap spread dynamics under structural market change.
 
 The purpose of this repository is to present the modeling framework in a clean, reproducible format suitable for integration with proprietary datasets.
+```
