@@ -73,8 +73,7 @@ Run the reproducible example:
 python src/run_demo.py
 ```
 ## Context
-```text
+
 This repository is derived from a Master's thesis in Quantitative Finance focused on regime-aware modeling of EUR swap spread dynamics under structural market change.
 
 The purpose of this repository is to present the modeling framework in a clean, reproducible format suitable for integration with proprietary datasets.
-```
